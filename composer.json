@@ -40,6 +40,11 @@
         "php-cs": "vendor/bin/php-cs-fixer fix --verbose --diff --dry-run",
         "php-cs-fix": "vendor/bin/php-cs-fixer fix"
     },
+    "extra": {
+        "branch-alias": {
+            "dev-0.7": "0.7.x-dev"
+        }
+    },
     "config": {
         "sort-packages": true
     }
