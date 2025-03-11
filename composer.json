@@ -24,9 +24,6 @@
         "phpstan/phpstan-webmozart-assert": "^1.2",
         "thecodingmachine/phpstan-strict-rules": "^1.0"
     },
-    "replace": {
-        "verzameldwerk/sulu-resource-bundle": "self.version"
-    },
     "autoload": {
         "psr-4": {
             "HandcraftedInTheAlps\\Bundle\\SuluResourceBundle\\": ""
