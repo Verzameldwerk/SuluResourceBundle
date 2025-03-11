@@ -1,5 +1,5 @@
 {
-    "name": "handcraftedinthealps/sulu-resource-bundle",
+    "name": "verzameldwerk/sulu-resource-bundle",
     "license": "MIT",
     "type": "sulu-bundle",
     "description": "Provide resource functionality for Sulu CMS.",
@@ -25,7 +25,7 @@
         "thecodingmachine/phpstan-strict-rules": "^1.0"
     },
     "replace": {
-        "handcraftedinthealps/sulu-resource-bundle": "self.version"
+        "verzameldwerk/sulu-resource-bundle": "self.version"
     },
     "autoload": {
         "psr-4": {
